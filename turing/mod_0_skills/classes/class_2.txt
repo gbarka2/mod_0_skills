@@ -1,0 +1,10 @@
+Pasta Dish
+  noodleType (string)
+  size (string)
+  extraCheese (boolean)
+  protein (string)
+
+  changeNoodle (changes noodleType to new string)
+  changeSize (changes the string of size)
+  removeProtein (removes protein selection)
+  removeExtraCheese (changes extraCheese from true to false)
