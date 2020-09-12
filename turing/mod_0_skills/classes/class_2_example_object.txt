@@ -1,0 +1,10 @@
+Spaghetti
+  noodleType = "spaghetti"
+  size = "small"
+  extraCheese = true
+  protein = "meatballs"
+
+  changeNoodle = "angel hair"
+  changeSize = "medium"
+  removeProtein = "none"
+  removeExtraCheese = false
