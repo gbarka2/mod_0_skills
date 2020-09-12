@@ -1,0 +1,16 @@
+var food = "pizza";
+var isDelicious = true;
+food = "potato chips";
+var num2 = 2;
+var num7 = 7;
+var quotient = (num7 / num2);
+var songs = ["Blackbird", "Bluebird", "She thinks my tractor's sexy"];
+var songs2 = songs.shift();
+
+console.log(food);
+console.log(isDelicious);
+console.log(num2);
+console.log(num7);
+console.log(quotient);
+console.log(songs);
+console.log(food.length);
