@@ -9,4 +9,4 @@ Pepperoni Pizza
   removeToppings = removes "extra cheese"
   changeCrust = changes "thin" to "deep dish"
   addCoupon = changes false to true
-  changeLarge = changes "small" to "large"
+  changeLarge = changes "small" to "large"  
