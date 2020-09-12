@@ -1,0 +1,12 @@
+Pizza
+  crustType (string)
+  size (string)
+  toppingsNumber (integer)
+  meatLovers (boolean)
+  toppings (string)
+  couponPresent (boolean)
+
+  removeToppings (removes selected toppings)
+  changeCrust (changes crustType selected)
+  addCoupon (changes couponPresent to true)
+  changeLarge (changes size to "large")
